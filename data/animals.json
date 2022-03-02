@@ -126,6 +126,17 @@
         "cute"
       ],
       "id": "12"
+    },
+    {
+      "name": "Johnny Boy",
+      "species": "Lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious"
+      ],
+      "id": "13"
     }
   ]
 }
